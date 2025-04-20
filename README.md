@@ -1,3 +1,5 @@
+> ⚠️ Note: GitHub preview does not support large .pbix files. Please use the download option or [Google Drive link](https://drive.google.com/file/d/1lNRiVBqDL2E8w9U3FsI9JzQ1pZc1VInv/view?usp=sharing) to view the report.
+
 # 📊 Reliance Sales Report – Power BI Dashboard
 
 This is an interactive **Sales Report Dashboard** built using Power BI.  
